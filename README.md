@@ -1,6 +1,9 @@
 -# SpaceOutlaw
 Fly a spaceship and avoid obstacles. Upon reaching the first space ship, you must traverse yourself through a maze with dangerous obstacles, and fight Arachmech, the ultimate security system.
+
 If you are not savvy with computers at all...
+
+-Extract the zip file to your required destination
 
 -To start the game click the "Space Outlaw.exe" file located in this folder
 
